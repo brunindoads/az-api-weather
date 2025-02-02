@@ -1,0 +1,28 @@
+# Arquivos de ambiente virtual
+venv/
+.env/
+
+# Arquivos de compilação
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos do editor de texto (exemplo para o Sublime Text)
+*.sublime-workspace
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Arquivos do sistema (Windows)
+Thumbs.db
+Desktop.ini
+
+# Arquivos do sistema (macOS)
+.DS_Store
