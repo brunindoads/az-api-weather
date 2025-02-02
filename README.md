@@ -101,4 +101,4 @@ Este projeto é open-source e pode ser usado conforme os termos da licença MIT.
 
 ---
 
-*Desenvolvido com ♥ por [Seu Nome](mailto:seu_email@exemplo.com).*
+*Desenvolvido com ♥ por @brunindoads*
